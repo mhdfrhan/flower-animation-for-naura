@@ -1683,6 +1683,15 @@ body {
   will-change: opacity, transform;
 }
 
+.intro-container p {
+  font-family: 'Oooh Baby', cursive;
+  font-size: 1.5rem;
+  color: #ff4d6d;
+  text-shadow: 0 4px 10px rgba(255, 77, 109, 0.2);
+  letter-spacing: 3px;
+  z-index: 10;
+}
+
 .gift-box {
   width: 350px;
   height: 350px;
